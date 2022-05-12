@@ -100,7 +100,7 @@ main{
 
 header{
   position: absolute;
-  right: 47%;
+  right: 42%;
   top: 13px;
 }
 div#menu ul{
@@ -217,7 +217,7 @@ textarea{
 #dex{
   border-radius: 5px 0px 0px 5px;
   height: 67%;
-  width: 800px;
+  width: 725px;
   overflow-y: scroll;
   position: absolute;
   left: 23%;
@@ -256,8 +256,7 @@ textarea{
 #nextPoke{
   position: absolute;
   left: 21%;
-  top: 22%;
-
+  top: 11%;
 }
 #nextPoke ul{
   display: -webkit-box;
@@ -268,7 +267,7 @@ textarea{
   padding-right: 8px;
 }
 table {
-	width : 756px!important;
+	width : 700px!important;
 }
 
 
@@ -276,7 +275,7 @@ table, td, th {
   border-bottom: 1.5px solid #afafaf;
 	border-collapse : collapse;
 	color : black;
-  width: 25%;
+  width: 22%;
 }
 
 td, th {
@@ -351,7 +350,7 @@ form div {
               overflow-y: scroll;
     }
     td.id{
-      width:7%;
+      width:12%;
     }
     th.id{
       width:7%;
