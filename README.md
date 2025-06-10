@@ -21,4 +21,4 @@ Het spel moet aan de volgende technische eisen voldoen:
 
 
 ### Bekijk oprdracht
-[Pokedex](https://kevii.nl/php/pokedex/)
+[Pokedex](https://kevin.webprofit.site/php/pokedex/)
